@@ -155,7 +155,7 @@ p {
 .quote {
     font-size: 36px;
     font-style: italic;
-    font-weight: 50px;
+    font-weight: lighter;
     color: #1F2937;
     text-align: left;
 }
