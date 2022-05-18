@@ -19,7 +19,7 @@ body {
 }
 
 .first-box {
-    color: white;
+    color: #F9FAF8;
     background-color: #1F2937;
     padding-left:48px;
     padding-right: 48px;
@@ -50,7 +50,7 @@ ul {
 
 a {
     text-decoration: none;
-    color: white;
+    color: #F9FAF8;
 }
 
 .first-container {
@@ -187,27 +187,27 @@ p {
 }
 
 .call-text {
-    color: white;
+    color: #F9FAF8;
 }
 
 .call-signup {
     background-color: #3882F6;
     border-radius: 5px;
     border-style: solid;
-    border-color: white;
-    color: white;
+    border-color: #F9FAF8;
+    color: #F9FAF8;
     padding: 5px 25px;
 }
 
 .call-btn {
-    color: white;
+    color: #F9FAF8;
     display: flex;
     gap: 30px;
 }
 
 .footer {
     background-color: #1F2937;
-    color: white;
+    color: #F9FAF8;
     padding-top: 15px;
     padding-bottom: 15px;
     padding-left: 48px;
