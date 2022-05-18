@@ -179,12 +179,11 @@ p {
 
 .call-box {
     background-color: #3882F6;
-    padding: 30px 100px;
+    padding: 20px 120px;
     border-radius: 4px;
     display: flex;
-    gap: 80px;
-    align-items: center;
-    justify-content: center;
+    flex-direction: column;
+    align-items: flex-start;
 }
 
 .call-text {
@@ -197,7 +196,13 @@ p {
     border-style: solid;
     border-color: white;
     color: white;
-    padding: 7px 10px;
+    padding: 5px 25px;
+}
+
+.call-btn {
+    color: white;
+    display: flex;
+    gap: 30px;
 }
 
 .footer {
