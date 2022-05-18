@@ -163,14 +163,40 @@ p {
 .fourth-box {
     padding: 48px;
     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.call-box {
+    background-color: #3882F6;
+    padding: 30px 100px;
+    border-radius: 4px;
+    display: flex;
+    gap: 80px;
+    align-items: center;
+    justify-content: center;
+}
+
+.call-text {
+    color: white;
+}
+
+.call-signup {
+    background-color: #3882F6;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: white;
+    color: white;
+    padding: 7px 10px;
 }
 
 .footer {
     background-color: #1F2937;
     color: white;
-    padding-left:48px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 48px;
     padding-right: 48px;
-    height: 30px;
     display: flex;
     flex: 1;
     justify-content: center;
